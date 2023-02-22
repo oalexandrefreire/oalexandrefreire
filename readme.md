@@ -7,5 +7,3 @@ Atualmente, trabalho como Analista de Desenvolvimento Full-Stack na SETIC - Supe
 De 2016 a 2021, trabalhei na Sirrus Sistemas, onde desenvolvi habilidades em diversas áreas, como programação web e mobile, tendo contato próximo com os clientes em todas as etapas do desenvolvimento. As principais tecnologias utilizadas foram: PHP, Laravel, JavaScript, Vue.Js, C#, .NET Core, MySQL, MariaDB, Amazon AWS, Google APIs, Git e GitLab.
 
 Estou cursando pós-graduação em Inteligência Artificial e Machine Learning, e Engenharia de Software na Universidade Norte do Paraná (UNOPAR). Além disso, possuo formação em Tecnólogo em Análise e Desenvolvimento de Sistemas pela Uniron e cursos na Udemy em C# aplicando Princípios SOLID e Clean Architecture Essencial - ASP .NET Core com C#.
-
-Estou sempre em busca de novos desafios e projetos interessantes na área de desenvolvimento, e adoro trabalhar em equipe. Se você quiser saber mais sobre mim ou entrar em contato, sinta-se à vontade para me enviar uma mensagem!
